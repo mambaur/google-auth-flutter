@@ -1,4 +1,4 @@
-package com.example.google_auth
+package com.caraguna.google.auth
 
 import io.flutter.embedding.android.FlutterActivity
 
